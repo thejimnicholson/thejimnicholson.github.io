@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Old, Fat and Slow]]></title>
+  <link href="http://thejimnicholson.github.io/atom.xml" rel="self"/>
+  <link href="http://thejimnicholson.github.io/"/>
+  <updated>2014-02-10T12:20:23-05:00</updated>
+  <id>http://thejimnicholson.github.io/</id>
+  <author>
+    <name><![CDATA[Jim Nicholson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Started]]></title>
+    <link href="http://thejimnicholson.github.io/blog/2014/02/10/getting-started/"/>
+    <updated>2014-02-10T11:37:54-05:00</updated>
+    <id>http://thejimnicholson.github.io/blog/2014/02/10/getting-started</id>
+    <content type="html"><![CDATA[<p>Another new blog? Yep, despite my reservations, I&rsquo;m determined to try this out. Actually, static site generation makes a great deal of sense considering the way blogs get hijacked these days.</p>
+
+<p>Anyway, the first topic I&rsquo;m going to address (in my typical ADHD fashion) is VPN access. Stay tuned.</p>
+]]></content>
+  </entry>
+  
+</feed>
