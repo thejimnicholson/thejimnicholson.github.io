@@ -107,16 +107,14 @@
       </p>
     
     
-      <h1 class="entry-title"><a href="/blog/2014/02/10/deploying-openvpn/">Deploying OpenVPN Part 1</a></h1>
+      <h1 class="entry-title"><a href="/blog/2014/02/10/deploying-openvpn/">Deploying OpenVPN Part 1: Why?</a></h1>
     
   </header>
 
 
-  <div class="entry-content clearfix"><h1>Why I want to do it</h1>
+  <div class="entry-content clearfix"><p>After years of working inside a &ldquo;walled garden,&rdquo; where I had limited access to clients and limited ability to work remotely, I&rsquo;m now a consultant working mostly on short-term projects. Some of those projects are done remotely, while others require me to be at a customer&rsquo;s location. Meanwhile, the team I&rsquo;m working with are distributed around the globe, and our &ldquo;infrastructre&rdquo; consists mostly of SaaS cloud sites and a mix of equipment sitting in various people&rsquo;s bedrooms, home offices and basements (including mine.)</p>
 
-<p>I recently started a new job. After years of working inside a &ldquo;walled garden,&rdquo; where I had limited access to clients and limited ability to work remotely, I&rsquo;m now a consultant working mostly on short-term projects. Some of those projects are done remotely, while others require me to be at a customer&rsquo;s location. Meanwhile, the team I&rsquo;m working with are distributed around the globe, and our &ldquo;infrastructre&rdquo; consists mostly of SaaS cloud sites and a mix of equipment sitting in various people&rsquo;s bedrooms and basements (including mine.)</p>
-
-<p>My remote access needs are as follows:</p>
+<p>As near as I can determine, my remote access requirements are:</p>
 
 <ul>
 <li>I need to access systems that are on my home network remotely.</li>
@@ -125,7 +123,22 @@
 </ul>
 
 
-<p>I have recent</p>
+<p>Additionally, I&rsquo;d like to host the infrastructure to support this using virtual machines, because that&rsquo;s how I roll.</p>
+
+<p>One possible solution would be to run Mac OS X Server to host the VPN connections. This makes sense because my house is almost exclusively a Mac house these days, except for my occasional (and usually work-related) Linux use. The snag is that while I have some &ldquo;spare&rdquo; Mac hardware that can run OS X Server, none can be upgraded to Mavericks.</p>
+
+<p>So the solution I&rsquo;m pursuing is to build out my home office infrastructure using Linux, following roughly this approach:</p>
+
+<ul>
+<li>Build a hypervisor to run my virtual machines</li>
+<li>Install some implementation of OpenVPN on a virtual machine, preferably using a virtual appliance.</li>
+<li>Configure my Airport Extreme to route VPN traffic from the internet into my OpenVPN host</li>
+<li>Set up access so I can get onto my home network when I&rsquo;m not at home, via my various devices.</li>
+<li>Connect my home network into the office network.</li>
+</ul>
+
+
+<p>I&rsquo;ll be posting more as things progress.</p>
 </div>
   
   
@@ -195,7 +208,7 @@
   
   <div id="recent_posts" class="list-group">
     
-    <a class="list-group-item " href="/blog/2014/02/10/deploying-openvpn/">Deploying OpenVPN Part 1</a>
+    <a class="list-group-item " href="/blog/2014/02/10/deploying-openvpn/">Deploying OpenVPN Part 1: Why?</a>
     
     <a class="list-group-item " href="/blog/2014/02/10/getting-started/">Getting Started</a>
     
