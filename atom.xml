@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Old, Fat and Slow]]></title>
+  <title><![CDATA[Pithy Branding-Friendly Name for a Website Goes Here]]></title>
   <link href="http://thejimnicholson.github.io/atom.xml" rel="self"/>
   <link href="http://thejimnicholson.github.io/"/>
-  <updated>2014-02-10T12:20:23-05:00</updated>
+  <updated>2014-02-11T12:34:08-05:00</updated>
   <id>http://thejimnicholson.github.io/</id>
   <author>
     <name><![CDATA[Jim Nicholson]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Deploying OpenVPN Part 1]]></title>
+    <link href="http://thejimnicholson.github.io/blog/2014/02/10/deploying-openvpn/"/>
+    <updated>2014-02-10T13:29:22-05:00</updated>
+    <id>http://thejimnicholson.github.io/blog/2014/02/10/deploying-openvpn</id>
+    <content type="html"><![CDATA[<h1>Why I want to do it</h1>
+
+<p>I recently started a new job. After years of working inside a &ldquo;walled garden,&rdquo; where I had limited access to clients and limited ability to work remotely, I&rsquo;m now a consultant working mostly on short-term projects. Some of those projects are done remotely, while others require me to be at a customer&rsquo;s location. Meanwhile, the team I&rsquo;m working with are distributed around the globe, and our &ldquo;infrastructre&rdquo; consists mostly of SaaS cloud sites and a mix of equipment sitting in various people&rsquo;s bedrooms and basements (including mine.)</p>
+
+<p>My remote access needs are as follows:</p>
+
+<ul>
+<li>I need to access systems that are on my home network remotely.</li>
+<li>I need to access systems that are on the team&rsquo;s network.</li>
+<li>I need to be able to give other team members access to systems on my network.</li>
+</ul>
+
+
+<p>I have recent</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Getting Started]]></title>
