@@ -27,6 +27,18 @@
 
   <script src="/javascripts/libs/jquery/jquery-2.0.3.min.js"></script>
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48096910-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
@@ -116,6 +128,9 @@
 
 <div class="entry-content clearfix"><p>After years of working inside a &ldquo;walled garden,&rdquo; where I had limited access to clients and limited ability to work remotely, I&rsquo;m now a consultant working mostly on short-term projects. Some of those projects are done remotely, while others require me to be at a customer&rsquo;s location. Meanwhile, the team I&rsquo;m working with are distributed around the globe, and our &ldquo;infrastructre&rdquo; consists mostly of SaaS cloud sites and a mix of equipment sitting in various people&rsquo;s bedrooms, home offices and basements (including mine.)</p>
 
+<!-- more -->
+
+
 <p>As near as I can determine, my remote access requirements are:</p>
 
 <ul>
@@ -189,6 +204,8 @@
             <li class="previous"><a href="/blog/2014/02/10/getting-started/" title="Previous Post: Getting Started">&laquo; Getting Started</a></li>
             
             
+            <li class="next"><a href="/blog/2014/02/13/deploying-openvpn-part-2-hypervisor-choices/" title="Next Post: Deploying OpenVPN Part 2: Hypervisor choices">Deploying OpenVPN Part 2: Hypervisor choices &raquo;</a></li>
+            
           </ul>
         
       </footer>
@@ -211,6 +228,8 @@
   </div>
   
   <div id="recent_posts" class="list-group">
+    
+    <a class="list-group-item " href="/blog/2014/02/13/deploying-openvpn-part-2-hypervisor-choices/">Deploying OpenVPN Part 2: Hypervisor Choices</a>
     
     <a class="list-group-item active" href="/blog/2014/02/10/deploying-openvpn/">Deploying OpenVPN Part 1: Why?</a>
     
@@ -309,11 +328,7 @@
 
 
 
-<!--[if !(lt IE 8)]><!-->
-   <script type="text/javascript">
-     (function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=document.location.protocol+"//d1agz031tafz8n.cloudfront.net/thedaywefightback.js/widget.min.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
-   </script>
-<!--<![endif]-->
+
 
   </body>
 </html>
