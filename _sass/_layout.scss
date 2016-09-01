@@ -1,3 +1,9 @@
+body {
+    background-image: url(/assets/site/lake.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
 /**
  * Site header
  */
@@ -5,7 +11,6 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
 }
