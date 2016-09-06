@@ -7,6 +7,7 @@ categories: beer
 
 <a href="/assets/posts/IMG_0170_edited.jpg" data-lightbox="image-1" data-title="American Bright Ale" class="mlb-thumb-link"><img src="/assets/posts/tn_IMG_0170_edited.jpg" class="mlb-thumb"></a>
 
+|   |   |
 |---|---|
 | Beer: | __American Bright Ale__ |
 | Brewer: | __Davidson Brothers__ |
