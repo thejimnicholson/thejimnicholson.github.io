@@ -16,4 +16,7 @@ twitter_username: thejimnicholson
 github_username:  thejimnicholson
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
