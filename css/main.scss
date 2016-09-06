@@ -53,19 +53,6 @@ $on-laptop:        800px;
 	"svg-icons"
 ;
 
-a.mlb-thumb-link {
-    display: inline-block;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    transition: 0.3s;
-}
-
-
-img.mlb-thumb {
-
-}
-
 header.site-header {
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a3a3c2+0,f6f6f6+73,ffffff+100 */
 background: #a3a3c2; /* Old browsers */
@@ -81,4 +68,13 @@ header.site-header div.wrapper {
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-color: #a3a3c2;
+}
+
+div.post-content p a img {
+    float: left;
+    padding: 5px;
+}
+
+div.post-content p a.thumbnail {
+    transition: 0.3s;
 }
