@@ -8,8 +8,6 @@ I went to [Capital Craft](http://capitalcraftnj.com/) and had a couple of flight
 
 __Breckenridge Vanilla Porter (Nitro tap)__ <http://www.breckbrew.com/> - perfect beer for nitro. None of the stout bitterness or over-the-top malty coffee flavors, and not a hint of sweetness. Good balance of bitterness from the vanilla and (very mild) chocolate tones. And smooth as a baby's bottom.
 
-__Dark City Upstage__ <http://www.darkcitybrewing.com/> - a Pale ale. Very bitter. Astringent. Felt like drinking cleaning fluid. Left a bitter aftertaste in my mouth. Not a pleasant experience.
-
 __Kane Hop Lab Citra__ <http://www.kanebrewing.com/> - another Pale ale . Powerful citrus, zings right out of the box with the first taste. Very smooth. None of the aftertaste of the Dark City. Went well up against pretzels and mustard. Good like the Conclave Hop Ritual, maybe even better balanced.
 
 __Brix City Belgian Dubbel__ <http://www.brixcitybrewing.com/> - Rich. Malty. Sweetness. What you'd expect in a dubbel, but it avoids being cloy about it. Probably my favorite of the four. The high ABV (8.0) is well disguised in this beer. Could easily get you into trouble. Possibly even a paternity suit, if you aren't careful.
