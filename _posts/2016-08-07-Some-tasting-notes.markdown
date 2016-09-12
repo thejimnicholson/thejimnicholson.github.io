@@ -13,7 +13,7 @@ I went to [Capital Craft](http://capitalcraftnj.com/) and had a couple of flight
 
 
 
-__Weyerbacher Merry Monks__ <http://www.weyerbacher.com/> - Cheating again. I've had this. Belgian Trippel. It's good. Have some.
+
 
 Next, we try a few more IPAs and some Berliner Weisse
 
