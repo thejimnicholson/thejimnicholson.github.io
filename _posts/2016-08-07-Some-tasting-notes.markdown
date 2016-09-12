@@ -6,17 +6,12 @@ categories: beer
 ---
 I went to [Capital Craft](http://capitalcraftnj.com/) and had a couple of flights. Besides excellent food, Capital Craft is a great place to go if you want to try _many_ excellent craft beers. They have a great menu (always changing,) and they have reasonably priced flights that let you sample them all without turning your liver into a puddle and your wallet into pocket lint. Even so, I took a designated driver. Here are some impressions. 
 
-__Brix City Belgian Dubbel__ <http://www.brixcitybrewing.com/> - Rich. Malty. Sweetness. What you'd expect in a dubbel, but it avoids being cloy about it. Probably my favorite of the four. The high ABV (8.0) is well disguised in this beer. Could easily get you into trouble. Possibly even a paternity suit, if you aren't careful.
 
-__Demented Dementia__ <https://www.dementedbrewing.com/> - IPA. What an IPA is support to be, but I'm getting a little of that chemical aftertaste like the Dark City has.
 
-__Southern Tier 2X IPA__ <http://www.stbcbeer.com/> - Smooth, bitter, and jumps around on the tough. Nice though. I'd probably drink a pint.
 
-__River Horse Hippotizing IPA__ <http://www.riverhorse.com/agegate.php> - Another good IPA from a consistently good brewery. Everything River Horse makes is drinkable. Watch this one, at 7.5% ABV, it might sneak up on you. Interesting concept too, mixing American and European hops for a nice complex flavor. And manages to avoid the IPA aftertaste.
 
-__Unibrou Ephemere Blueberry__ <http://www.unibroue.com/en/home> - This is a fruit beer. You get fruit on the nose. You get fruit up front. You get a fruit finish. It's not overly sweet. It's very well done. It's even carbonated just right. Whatever else you thing about the Quebecois, they can make a very drinkable beverage. Is it a beer? Well, it's 5.5% ABV. (I missed most of the spicy finish everyone talks about with this beer.)
 
-__Founder's All Day IPA__ <https://foundersbrewing.com/> - Cheating, because I've had this one before, and at this point, my palette is pretty much all over the place after all these beers. I'm sure it will be good (haven't actually tried it yet.) (OK, now I have.) And it delivers. What to order if you want an IPA.
+
 
 __Weyerbacher Merry Monks__ <http://www.weyerbacher.com/> - Cheating again. I've had this. Belgian Trippel. It's good. Have some.
 
