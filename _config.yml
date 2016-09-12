@@ -11,6 +11,7 @@ email: thejimnicholson@gmail.com
 description: > # this means to ignore newlines until "baseurl"
   Everyone is entitled to my opinion.
 baseurl: "" # the subpath of your site, e.g. /blog
+excerpt_separator: ""
 url: "http://thejimnicholson.github.io" # the base hostname & protocol for your site
 twitter_username: thejimnicholson
 github_username:  thejimnicholson
