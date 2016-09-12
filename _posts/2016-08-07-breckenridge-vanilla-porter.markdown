@@ -2,7 +2,7 @@
 layout: post
 title:  "Breckenridge Vanilla Porter"
 date:   2016-08-07 22:00:00 -0400
-categories: beer IPA
+categories: [beer, porter]
 ---
 
 |   |   |
