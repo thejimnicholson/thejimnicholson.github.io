@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dark City Upstage"
+title:  "Kane Hop Lab Citra"
 date:   2016-08-07 22:00:00 -0400
 categories: [beer,IPA]
 ---
