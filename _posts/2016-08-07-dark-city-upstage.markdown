@@ -2,7 +2,7 @@
 layout: post
 title:  "Dark City Upstage"
 date:   2016-08-07 22:00:00 -0400
-categories: beer IPA
+categories: [beer,IPA]
 ---
 
 |   |   |
