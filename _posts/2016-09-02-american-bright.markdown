@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Davidson Brothers American Bright"
-categories: beer
+categories: [NY,Ale]
 ---
 
 |          |                                  |
