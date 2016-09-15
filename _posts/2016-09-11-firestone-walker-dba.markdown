@@ -14,3 +14,4 @@ categories: [CA,English Pale Ale]
 | ABV     | 5%                              |
 
 Smooth like nitro. Sweet but not cloying. Malt overtones, very subtle. A vague fruit finish. Very drinkable, although for a carbonation fan like me, the nitro makes the experience unusual.
+ 
