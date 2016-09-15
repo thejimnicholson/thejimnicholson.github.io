@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Weyerbacher Merry Monks
+categories: [PA,Trippel]
 ---
 
-__Weyerbacher Merry Monks__ <http://www.weyerbacher.com/> - Cheating again. I've had this. Belgian Trippel. It's good. Have some.
+|   |   |
+|---|---|
+| Beer: |  __Merry Monks__     |
+| Brewer: | __Weyerbacher__    |
+| Website: |   <http://www.weyerbacher.com/>  |
+
+A fairly good, representative Belgian Trippel. Malty and sweet, high ABV. It's good. Have some.
