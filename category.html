@@ -6,5 +6,5 @@ sitemap: false
 {% assign categories = site.categories | sort %}
 
 {% for cat in categories %}
-	<a href="#{{ cat | slugify }}"> {{ cat }} </a>
+	<a href="#{{ cat | first | slugify }}"> {{ cat[0] | replace:'-', ' ' }} ({{ cat | last | size }}) </a>
 {% endfor %}
