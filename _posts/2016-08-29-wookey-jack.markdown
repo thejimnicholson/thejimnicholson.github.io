@@ -4,7 +4,6 @@ title: "Wookey Jack"
 categories: [NY,IPA,Special]
 ---
 
-
 |          |                          |
 |----------|--------------------------|
 | Beer:    | __Wookey Jack__          |
