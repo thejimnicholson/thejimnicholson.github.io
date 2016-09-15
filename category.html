@@ -1,0 +1,9 @@
+---
+layout: default
+title: Categories
+---
+
+
+{% for cat in categories %}
+	<a href="#{{ cat | slugify }}"> {{ cat }} </a>
+{% endfor %}
