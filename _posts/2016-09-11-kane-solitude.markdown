@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "Kane Solitude"
-categories: []
+categories: [NJ,Belgian Strong Ale]
 ---
 
-Solitude
-Kane
-Belgian Strong Ale
-ABV 9.5%
 
-The color is deep brown. The malt is obvious, but surprisingly not smokey or coffee. Sweet finish typical of the style. A good representative of a Belgian ale.
+|          |                               |
+|----------|-------------------------------|
+| Beer:    | __Solitude__                  |
+| Brewer:  | __Kane Brewing__              |
+| Website: | <http://www.kanebrewing.com/> |
+| Style:   | Belgian Strong Ale            |
+| ABV:     | 9.5%                          |
+
+The color is deep brown. The malt is obvious, but surprisingly not smoky or coffee. Sweet finish typical of the style. A good representative of a Belgian ale.
