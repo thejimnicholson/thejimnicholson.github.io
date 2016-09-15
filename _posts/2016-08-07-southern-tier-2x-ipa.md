@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Southern Tier 2X IPA
-categories [NY,IPA]
+categories: [NY,IPA]
 ---
 
 |          |                            |
