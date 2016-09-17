@@ -54,20 +54,32 @@ $on-laptop:        800px;
 ;
 
 header.site-header {
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a3a3c2+0,f6f6f6+73,ffffff+100 */
-background: #a3a3c2; /* Old browsers */
-background: -moz-linear-gradient(top,  #a3a3c2 0%, #f6f6f6 73%, #ffffff 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  #a3a3c2 0%,#f6f6f6 73%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  #a3a3c2 0%,#f6f6f6 73%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a3a3c2', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#af5e02+1,ffbe02+35,ffb804+100 */
+background: #af5e02; /* Old browsers */
+background: -moz-linear-gradient(top,  #af5e02 1%, #ffbe02 35%, #ffb804 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #af5e02 1%,#ffbe02 35%,#ffb804 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #af5e02 1%,#ffbe02 35%,#ffb804 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af5e02', endColorstr='#ffb804',GradientType=0 ); /* IE6-9 */
+
 }
 
 header.site-header div.wrapper {
-	height: 345px;
-	background-image: url(/assets/site/lake.jpg);
+	height: 350px;
+	background-image: url(/assets/site/beer-crop.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
-	background-color: #a3a3c2;
+}
+header.site-header div.wrapper a.site-title {
+  padding-top: 150px;
+}
+header.site-header div.wrapper nav.site-nav {
+  padding-top: 170px;
+}
+header.site-header div.wrapper div.site-description {
+  padding: 10px;
+  padding-top: 200px;
+  font-size: 16pt;
 }
 
 div.post-content p a img {
