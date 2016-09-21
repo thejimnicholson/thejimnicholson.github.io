@@ -4,8 +4,8 @@ title: "Firestone Walker DBA"
 categories: [CA,English Pale Ale]
 ---
 
-|         |                                 |
-|---------|---------------------------------|
+|          |                                 |
+|----------|---------------------------------|
 | Beer:    | __DBA (Nitro)__                 |
 | Brewer:  | __Firestone Walker__            |
 | Style:   | English Pale Ale                |
