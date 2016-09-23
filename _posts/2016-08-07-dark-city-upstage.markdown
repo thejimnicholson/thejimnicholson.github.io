@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: beer
 title:  "Dark City Upstage"
 categories: [NJ,IPA]
 beer-name: Upstage
