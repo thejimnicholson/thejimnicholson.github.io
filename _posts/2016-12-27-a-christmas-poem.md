@@ -3,39 +3,39 @@ layout: post
 title: A Christmas Poem
 ---
 
-This year
-we managed to get
-about as far away
-from Bethlehem as you
-can get and still
-not come up against
+This year<br/>
+we managed to get<br/>
+about as far away<br/>
+from Bethlehem as you<br/>
+can get and still<br/>
+not come up against<br/>
 someone's silly border enforcement.
 
-The air is
-wet, and cold. Bitter cold
-and the ground is soaked and wet
-and we are all
-huddling in our rooms
-with the space heaters
-that replace furnaces
-in these California-style apartments
+The air is<br/>
+wet, and cold. Bitter cold<br/>
+and the ground is soaked and wet<br/>
+and we are all<br/>
+huddling in our rooms<br/>
+with the space heaters<br/>
+that replace furnaces<br/>
+in these California-style apartments<br/>
 built too far north.
 
-Everything about
-Christmas is a miracle
-from the way we broken few
-come together as a family
-to the call-outs to
-some vaguely described events
-in a hotel-cum-stable
+Everything about<br/>
+Christmas is a miracle<br/>
+from the way we broken few<br/>
+come together as a family<br/>
+to the call-outs to<br/>
+some vaguely described events<br/>
+in a hotel-cum-stable<br/>
 two thousand years ago.
 
-Even so, come, Lord Jesus.
-We've got things ready.
-We've taken out the kitchen trash and
-all the recycling
-and our bitter hearts
-might just, perhaps
-be ready for whatever miracle
+Even so, come, Lord Jesus.<br/>
+We've got things ready.<br/>
+We've taken out the kitchen trash and<br/>
+all the recycling<br/>
+and our bitter hearts<br/>
+might just, perhaps<br/>
+be ready for whatever miracle<br/>
 you can perform.
 
