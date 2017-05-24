@@ -9,7 +9,7 @@
 title: Working Title
 email: thejimnicholson@gmail.com
 description: > # this means to ignore newlines until "baseurl"
-  brief notes on life and beer
+  brief notes on things
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thejimnicholson.github.io" # the base hostname & protocol for your site
 twitter_username: thejimnicholson
