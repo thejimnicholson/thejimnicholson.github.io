@@ -54,12 +54,7 @@ $on-laptop:        800px;
 ;
 
 body {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#af5e02+0,ffbe02+17,ffb804+25,fdfdfd+100 */
-  background: #af5e02; /* Old browsers */
-  background: -moz-linear-gradient(top,  #ffb804 25%, #fdfdfd 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top,  #ffb804 25%,#fdfdfd 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom,  #ffb804 55%,#fdfdfd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb804', endColorstr='#fdfdfd',GradientType=0 ); /* IE6-9 */
+
 
 
 
@@ -67,13 +62,12 @@ body {
 
 header.site-header {
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#af5e02+0,ffbe02+17,ffb804+25,fdfdfd+100 */
-  background: #af5e02; /* Old browsers */
-  background: -moz-linear-gradient(top,  #af5e02 0%, #ffbe02 35%, #ffb804 55%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top,  #af5e02 0%,#ffbe02 35%,#ffb804 55%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom,  #af5e02 0%,#ffbe02 55%,#ffb804 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af5e02', endColorstr='#ffb804',GradientType=0 ); /* IE6-9 */
-
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#161400+0,bbbc89+17,ffffff+25,fdfdfd+100 */
+  background: #161400; /* Old browsers */
+  background: -moz-linear-gradient(top, #161400 0%, #bbbc89 17%, #ffffff 25%, #fdfdfd 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #161400 0%,#bbbc89 17%,#ffffff 25%,#fdfdfd 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #161400 0%,#bbbc89 17%,#ffffff 25%,#fdfdfd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#161400', endColorstr='#fdfdfd',GradientType=0 ); /* IE6-9 */
 
 
 }
@@ -83,15 +77,15 @@ header.site-header {
 }
 
 header.site-header div.wrapper a.site-title {
-  padding-top: 150px;
+  padding-top: 50px;
 }
 header.site-header div.wrapper nav.site-nav {
-  padding-top: 170px;
+  padding-top: 90px;
 }
 header.site-header div.wrapper div.site-description {
-  padding: 10px;
-  padding-top: 200px;
-  font-size: 16pt;
+  padding-top: 90px;
+
+
 }
 
 div.post-content p a img {
