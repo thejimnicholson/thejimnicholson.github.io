@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Better Onion-baked Chicken
+categories: [recipe]
 ---
 
 **Ingredients:**
