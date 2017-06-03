@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/thejimnicholson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thejimnicholson.github.io
+  * I am thejimnicholson (https://keybase.io/thejimnicholson) on keybase.
+  * I have a public key ASDgg1knK2fh4vseNzB_N_Ym9I6zegmrFuDQH2nraGcHzgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b755769b8817ffcd15d99d95c6ae329274167860b1074a26bba030fbca1e4c4e0a",
+            "host": "keybase.io",
+            "kid": "0120e08359272b67e1e2fb1e37307f37f626f48eb37a09ab16e0d01f69eb686707ce0a",
+            "uid": "89ea87cfd2ce527730ee8b33c5c16719",
+            "username": "thejimnicholson"
+        },
+        "merkle_root": {
+            "ctime": 1496476599,
+            "hash": "44a9f1aa510b1137b0ae0d58fa266cd48fa8c6c288a5d851c2643cfd109282f7e128acd44f16893655ecf248e785ced2b7bcb87d23a204e7fe479185080f4206",
+            "hash_meta": "d865a935f26f5bb09b9ac0eb6f7241c5e70847d366f1403adf539a4103f3147a",
+            "seqno": 1139773
+        },
+        "service": {
+            "hostname": "thejimnicholson.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1496476620,
+    "expire_in": 504576000,
+    "prev": "03c564cdf7613911d2f99f1eeb0e3df836c41dfc158e8fa86cd6b2401a3ef8da",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4INZJytn4eL7Hjcwfzf2JvSOs3oJqxbg0B9p62hnB84Kp3BheWxvYWTFA1h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjc1NTc2OWI4ODE3ZmZjZDE1ZDk5ZDk1YzZhZTMyOTI3NDE2Nzg2MGIxMDc0YTI2YmJhMDMwZmJjYTFlNGM0ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTA4MzU5MjcyYjY3ZTFlMmZiMWUzNzMwN2YzN2Y2MjZmNDhlYjM3YTA5YWIxNmUwZDAxZjY5ZWI2ODY3MDdjZTBhIiwidWlkIjoiODllYTg3Y2ZkMmNlNTI3NzMwZWU4YjMzYzVjMTY3MTkiLCJ1c2VybmFtZSI6InRoZWppbW5pY2hvbHNvbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NjQ3NjU5OSwiaGFzaCI6IjQ0YTlmMWFhNTEwYjExMzdiMGFlMGQ1OGZhMjY2Y2Q0OGZhOGM2YzI4OGE1ZDg1MWMyNjQzY2ZkMTA5MjgyZjdlMTI4YWNkNDRmMTY4OTM2NTVlY2YyNDhlNzg1Y2VkMmI3YmNiODdkMjNhMjA0ZTdmZTQ3OTE4NTA4MGY0MjA2IiwiaGFzaF9tZXRhIjoiZDg2NWE5MzVmMjZmNWJiMDliOWFjMGViNmY3MjQxYzVlNzA4NDdkMzY2ZjE0MDNhZGY1MzlhNDEwM2YzMTQ3YSIsInNlcW5vIjoxMTM5NzczfSwic2VydmljZSI6eyJob3N0bmFtZSI6InRoZWppbW5pY2hvbHNvbi5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5NjQ3NjYyMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwM2M1NjRjZGY3NjEzOTExZDJmOTlmMWVlYjBlM2RmODM2YzQxZGZjMTU4ZThmYTg2Y2Q2YjI0MDFhM2VmOGRhIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAwL0797BcLOR4U5FDCYfgnir8KMeG0QIU2wgJBVcuDhtVLj0M7t+2vsJqFtOl39O5V+MO+KnTspz8SBRR25y+DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMpnrTDp2PzcQ1cOcbtvqQz0p50dhrJH/BXChJUbP3qwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thejimnicholson
+
+==================================================================
