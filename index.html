@@ -14,7 +14,7 @@ layout: default
         </h2>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 	       {{ post.excerpt }}
-         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">[continue reading...]</a>
+         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">[continue reading...*]</a>
       </li>
     {% endfor %}
   </ul>
