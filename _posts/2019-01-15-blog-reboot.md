@@ -1,7 +1,7 @@
-  ---
-  layout: post
-  title: blog reboot
-  ---
+---
+layout: post
+title: blog reboot
+---
   
   It's been a while. 
   
