@@ -2,6 +2,7 @@
 layout: post
 title: List Makefile targets
 categories: [unix,linux,bash,shell]
+background: /assets/site/lake.jpg
 ---
 
 This snippet can be helpful if you frequently work with large Makefiles. 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Index
 sitemap: false
 ---
@@ -17,7 +17,7 @@ sitemap: false
 {% for post in sorted_posts %}
 {%if post.categories contains category[0] and post.layout != 'beer' %}
 
-  <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+  <p><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
 
 {%endif%}
 {% endfor %}

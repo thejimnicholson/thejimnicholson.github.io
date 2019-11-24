@@ -2,6 +2,7 @@
 layout: post
 title: Rye Bread
 categories: [bread,baking,recipe]
+background: /assets/site/lake.jpg
 ---
 
 I've started a project to come up with a half-decent rye bread recipe. In all my years of bread machine usage, I've never come across a rye bread result that actually ... tasted and looked like rye bread, I decided to come up with my own.

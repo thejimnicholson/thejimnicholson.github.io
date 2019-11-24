@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Christmas Poem
+background: /assets/site/lake.jpg
 ---
 
 This year<br/>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: blog reboot
+background: /assets/site/lake.jpg
 ---
   
   It's been a while. 

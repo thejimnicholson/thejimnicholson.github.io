@@ -1,6 +1,7 @@
 ---
+background: /assets/site/lake.jpg
 layout: post
-title: kubernetes experiments (Starting a new series)
+title: kubernetes experiments 
 date: 2019-05-25 14:11 -0700
 ---
 

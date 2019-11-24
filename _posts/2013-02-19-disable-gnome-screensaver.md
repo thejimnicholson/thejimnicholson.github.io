@@ -2,6 +2,7 @@
 layout: post
 title: Disable gnome screensaver from command line
 categories: [unix,linux,gnome ]
+background: /assets/site/lake.jpg
 ---
 
 Works for gnome 2.

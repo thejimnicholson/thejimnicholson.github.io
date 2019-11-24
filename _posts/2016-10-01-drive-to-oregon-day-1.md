@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Drive to Oregon Day 1
+background: /assets/site/lake.jpg
 ---
 
 Moving across a country as large as the United States is a hard thing, especially when you carry the accumulated possessions of a lifetime. We are being relocated, so we have the luxury of having a van company to handle the task of actually getting stuff from New Jersey or Oregon. What isn't factored into that, however, is the reality that just the packing alone is a huge job. Literally everything we sent has to be in some container, with the exception of furniture. Even then, every piece is individually wrapped in a mover's blanket before it is put on the truck.

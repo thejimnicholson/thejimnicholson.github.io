@@ -2,6 +2,7 @@
 layout: post
 title: Drinking the Rails Kool-Aide, Revisited
 categories: [Rails,software development]
+background: /assets/site/lake.jpg
 ---
 
 A few years ago, I jotted down some thoughts about working with Rails in an Agile environment, under the somewhat provocative title I’ve used for this post. Here are some of those ideas. I’ve expanded on some, commented and clarified others. By no means an exhaustive list, here are some of the paradigms I’ve used when developing with Rails:

@@ -2,6 +2,7 @@
 layout: post
 title: Better Onion-baked Chicken
 categories: [recipe]
+background: /assets/site/lake.jpg
 ---
 
 **Ingredients:**
