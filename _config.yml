@@ -16,7 +16,7 @@ twitter_username: thejimnicholson
 github_username:  thejimnicholson
 facebook_username: jim.nicholson
 linkedin_username: jimnicholson
-theme: jekyll-theme-clean-blog
+remote_theme: BlackRockDigital/startbootstrap-clean-blog-jekyll
 repository: thejimnicholson/thejimnicholson.github.io
 github: [metadata]
 # Build settings
