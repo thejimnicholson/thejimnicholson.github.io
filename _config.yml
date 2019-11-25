@@ -12,10 +12,12 @@ description: > # this means to ignore newlines until "baseurl"
   brief notes on things
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thejimnicholson.github.io" # the base hostname & protocol for your site
-twitter_username: thejimnicholson
+twitter_username: devopsjames
 github_username:  thejimnicholson
 facebook_username: jim.nicholson
 linkedin_username: jimnicholson
+keybase_identity: https://keybase.io/thejimnicholson
+twitch_user: flannags
 remote_theme: BlackRockDigital/startbootstrap-clean-blog-jekyll
 repository: thejimnicholson/thejimnicholson.github.io
 github: [metadata]

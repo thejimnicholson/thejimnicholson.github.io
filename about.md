@@ -9,4 +9,6 @@ Jim Nicholson has been working on and writing things about the Internet and his 
 
 Among other things, Jim is produces the [Mountain iDentifer](https://anchor.fm/jim-nicholson4) podcast, which can be all of the things Jim's blog can be. 
 
-This site was created using Jekyll. You can find out more information about Jekyll at [jekyllrb.com](http://jekyllrb.com/)
+
+
+This site was created using Jekyll and is hosted on GitHub Pages. You can find out more information about Jekyll at [jekyllrb.com](http://jekyllrb.com/)
