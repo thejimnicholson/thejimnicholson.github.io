@@ -8,6 +8,7 @@
 # Site settings
 title: Working Title
 email: thejimnicholson+blog@outlook.com
+author: Jim Nicholson
 description: > # this means to ignore newlines until "baseurl"
   brief notes on things
 baseurl: "" # the subpath of your site, e.g. /blog
