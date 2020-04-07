@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Plague Journal: Day 12'
+date: 2020-04-07 08:47 -0700
+---
+By my calculations, we hve been under restrictions since March 25th. This is a summation of my current thinking about the pandemic and the response to it.
+
+I am practicing social isolation because I'm respectful of other people's wishes. I am working from home because my employer insists upon it, which is ironic, because I've wanted to work from home all along, but my employer refused to allow it before COVID-19.  I am eating at home because the restaurants are closed. But I don't really believe any of this is necessary, as currently implemented, and my willingness to cooperate is not unlimited. Parks should be open, and people should be encouraged to exercise, for example.
+
+One of my fundamental beliefs is that governments __never__ have your interests at heart, despite the claims that they do. Governments aren't always bad, but as institutions they don't.actually don't care what happens to you as long as the people in government still get to be the government. This isn't because governments are evil; rather, institutions are incapable of caring for humans; only humans can do that. There are always some people in those institutions that actually care, and they sometimes can influence the policies and actions of governments so that it government actually protects you. That's positive and we should encourage those who do this, but we shouldn't be fooled by this into thinking that the governments as institutions actually care. They don;t because they can't, in the same way your care doesn't care whether you drive on the road, steer toward the sidewalk, or turn into a brick wall; it will go in the direction you point it when you push the long pedal to the right, usually.
+
+The models that the government used to justify shutting the economy down assume that people will practice social distancing. Those models all predicted hospitalization and death rates for COVID-19 that are anywhere from 3 to 10 times the actual numbers. Yet governors like Cuomo are insisting that they need to tighten restrictions and increase penalties for those who violate social restrictions. This is a power grab, plain and simple. It has nothing to do with health policy or fighting the virus.
+
+Throughout this crisis, the one thing that we should be told, but that governments  have steadfastly refused to tell us, is this: how close are hospitals to capacity? What we have heard, overwhelmingly, is that if we don't follow the restrictions, the hospitals will be overrun. For that to be true, they should be close to overrun in places where the restrictions are lax or unenforced, yet we find that isn't true. Sweden isn't under lockdown, yet their rates aren't appreciably worse than the rest of Europe. There are many parts of the US - mainly rural areas - where the kind of strict lockdown ordered by the governors of NY and NJ aren't just impractical, they are impossible. Yet the situation is worse in dense urban areas,
+
+Scott Adams is right. If we don't know how close hospitals are to capacity by next week, the lock-down is bullshit and we should all actively revolt against it and our government.
